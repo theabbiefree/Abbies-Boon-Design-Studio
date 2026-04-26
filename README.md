@@ -65,7 +65,7 @@ Nothing happens until you decide it happens.
 
 ## Use It
 
-**Online:** [theabbiefree.github.io/abbies-boon-design-studio](https://theabbiefree.github.io/abbies-boon-design-studio)
+**Online:** [theabbiefree.github.io/Abbies-Boon-Design-Studio](https://theabbiefree.github.io/Abbies-Boon-Design-Studio)
 
 **Offline:** Download `index.html` and open it in any browser.
 
